@@ -1,4 +1,4 @@
 myrep0
 ======
 
-test repository
+test repository.
